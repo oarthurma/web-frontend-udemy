@@ -63,17 +63,6 @@ O objetivo central deste projeto de estudos é construir uma base sólida e apro
 
 ---
 
-## 🎓 Sobre o Curso
-
-* **Curso:** [Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025](https://www.udemy.com/course/web-frontend-completo-html-css-javascript-typescript-react-next/)
-* **Instrutor:** Jamilton Damasceno
-* **Plataforma:** Udemy
-* **Foco deste Repositório:** Módulos de HTML5, CSS3, JavaScript (ES6+) e TypeScript.
-
-O curso oferece uma formação abrangente, e este repositório é dedicado a registrar a jornada através de suas seções fundamentais, essenciais para qualquer desenvolvedor frontend.
-
----
-
 ## 🚀 Tecnologias e Conceitos Abordados
 
 A estrutura de aprendizado seguirá a progressão do curso, focando nos seguintes pilares:

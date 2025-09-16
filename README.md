@@ -51,20 +51,6 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 
 ---
 
-## 📂 Estrutura do Repositório
-
-O repositório será organizado em pastas, cada uma correspondendo a um módulo ou conceito importante do curso, para facilitar a consulta e a revisão do conteúdo.
-
-Com certeza! Adicionar detalhes sobre o curso e o autor enriquece muito o README.md, mostrando a origem do seu conhecimento e dando crédito ao instrutor.
-
-Após uma pesquisa, confirmei que o instrutor do curso é o Jamilton Damasceno, um desenvolvedor e professor muito conhecido na plataforma Udemy.
-
-Preparei uma nova versão do seu README.md incorporando essas informações de forma profissional. O resultado é um documento mais completo e informativo.
-
-Basta seguir os mesmos passos de antes: copie o conteúdo abaixo, cole no seu arquivo README.md local e suba para o GitHub com git add, git commit e git push.
-
-Markdown
-
 # Jornada Frontend: Fundamentos para Angular
 
 Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelo instrutor Jamilton Damasceno e disponibilizado na plataforma Udemy.

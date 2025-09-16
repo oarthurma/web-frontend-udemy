@@ -61,14 +61,13 @@ Após uma pesquisa, confirmei que o instrutor do curso é o Jamilton Damasceno, 
 
 Preparei uma nova versão do seu README.md incorporando essas informações de forma profissional. O resultado é um documento mais completo e informativo.
 
-Nova Versão do README.md (com Detalhes do Curso)
 Basta seguir os mesmos passos de antes: copie o conteúdo abaixo, cole no seu arquivo README.md local e suba para o GitHub com git add, git commit e git push.
 
 Markdown
 
 # Jornada Frontend: Fundamentos para Angular
 
-Este repositório documenta meu progresso e aprendizado no curso **Desenvolvimento Web Completo 2024 - 20 cursos + 20 projetos**, ministrado pelo instrutor Jamilton Damasceno e disponibilizado na plataforma Udemy.
+Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelo instrutor Jamilton Damasceno e disponibilizado na plataforma Udemy.
 
 O conteúdo aqui presente representa os projetos, exercícios práticos e anotações desenvolvidos ao longo dos módulos, servindo como um registro prático da minha evolução.
 
@@ -80,7 +79,7 @@ O objetivo central deste projeto de estudos é construir uma base sólida e apro
 
 ## 🎓 Sobre o Curso
 
-* **Curso:** [Desenvolvimento Web Completo 2024 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-frontend-completo-html-css-javascript-typescript-react-next/)
+* **Curso:** [Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025](https://www.udemy.com/course/web-frontend-completo-html-css-javascript-typescript-react-next/)
 * **Instrutor:** Jamilton Damasceno
 * **Plataforma:** Udemy
 * **Foco deste Repositório:** Módulos de HTML5, CSS3, JavaScript (ES6+) e TypeScript.
@@ -118,22 +117,6 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
     * Configuração do ambiente com `tsconfig.json`.
 
 ---
-
-## 📂 Estrutura do Repositório
-
-O repositório será organizado em pastas, cada uma correspondendo a um módulo ou conceito importante do curso, para facilitar a consulta e a revisão do conteúdo.
-
-/
-├── 01-HTML-CSS/
-│   ├── projeto-landing-page/
-│   └── ...
-├── 02-JavaScript/
-│   ├── exercicios-dom/
-│   └── ...
-├── 03-TypeScript/
-│   ├── projeto-inicial-ts/
-│   └── ...
-└── README.md
 
 
 ## 💻 Como Executar

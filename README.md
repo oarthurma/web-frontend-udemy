@@ -110,7 +110,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 031  | ✅     | Formulários: Entendendo na prática      |
 | 032  | ✅     | Formulários: Descobrindo mais elementos |
 | 033  | ✅     | Formulários: Exercício 1                |
-| 034  | ⏳     | Formulários: Exercício 2                |
+| 034  | ✅     | Formulários: Exercício 2                |
 | 035  | ⏳     | HTML: Caracteres especiais              |
 | 036  | ⏳     | Mídias: Executar vídeos c/ HTML         |
 | 037  | ⏳     | VS Code: Emmet                          |

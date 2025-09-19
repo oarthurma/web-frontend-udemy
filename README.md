@@ -2,11 +2,11 @@
 
 Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelos instrutores Jamilton Damasceno e Jorge Sant Ana. Disponibilizado na plataforma Udemy.
 
-O conteúdo aqui presente representa os projetos, exercícios práticos e anotações desenvolvidos ao longo dos módulos, servindo como um registro prático da minha evolução.
+O conteúdo aqui presente representa os projetos e exercícios práticos desenvolvidos ao longo das seções, servindo como um registro prático dos meus estudos.
 
 ## 🎯 Objetivo Principal
 
-O objetivo central deste projeto de estudos é construir uma base sólida e aprofundada nas tecnologias fundamentais do desenvolvimento web — **HTML, CSS, JavaScript e TypeScript**. Este conhecimento servirá como alicerce para estudos futuros e especialização no framework **Angular**.
+O objetivo central deste estudo é construir uma base sólida e aprofundada nas tecnologias fundamentais do desenvolvimento web — **HTML, CSS, JavaScript e TypeScript**. Este conhecimento servirá como alicerce para estudos futuros e especialização no framework **Angular**.
 
 ---
 
@@ -17,7 +17,9 @@ O objetivo central deste projeto de estudos é construir uma base sólida e apro
 * **Plataforma:** Udemy
 * **Foco deste Repositório:** Módulos de HTML5, CSS3, JavaScript (ES6+) e TypeScript.
 
-O curso oferece uma formação abrangente, e este repositório é dedicado a registrar a jornada através de suas seções fundamentais, essenciais para qualquer desenvolvedor frontend. As seções 32 a 35 (React, Next, Figma e AirBnb) não serão abordadas neste momento, pois o foco atual é estabelecer uma base técnica sólida nos conceitos fundamentais que servirão como fundação para o aprendizado posterior do framework Angular.
+O curso oferece uma formação abrangente, e este repositório é dedicado a registrar a jornada através de suas seções fundamentais, essenciais para qualquer desenvolvedor frontend. 
+
+> **⚠️ Nota Importante:** As seções 32 a 35 (React, Next, Figma e AirBnb) não serão abordadas neste momento, pois o foco atual é estabelecer uma base técnica sólida nos conceitos fundamentais que servirão como fundação para o aprendizado posterior do framework Angular.
 
 ---
 
@@ -55,7 +57,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 
 | Projeto | Status | Descrição |
 | ------- | ------ | --------- |
-| 01 | ✅ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
+| 01 | ⏳ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
 | 02 | ⏳ | **Site Oficial do Discord** → Use HTML para criar o famoso site Discord |
 | 03 | ⏳ | **Detalhes produto Loja Virtual** → Usando HTML e CSS criaremos uma área muito comum em lojas virtuais, exibição das informações de produtos |
 | 04 | ⏳ | **Site Anna Bella** → Site completo com HTML e CSS, aplicando formatações e navegação entre páginas |
@@ -393,3 +395,145 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 227  | ⏳     | Versionando o projeto com o Git         |
 | 228  | ⏳     | Repositório dos Scripts no GitHub       |
 
+### Seção 25: TypeScript - Tipos Básicos (28 aulas - 3h 43m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 229  | ⏳     | Introdução                              |
+| 230  | ⏳     | Type Inference                          |
+| 231  | ⏳     | Desabilitando a Compilação Quando Houver Erros (noEmitOnError) |
+| 232  | ⏳     | Type Annotation                         |
+| 233  | ⏳     | Tipo Array                              |
+| 234  | ⏳     | Union Types                             |
+| 235  | ⏳     | Tipo Tuple                              |
+| 236  | ⏳     | Readonly em Arrays e Tuples            |
+| 237  | ⏳     | Tipo Object - Inferência e Anotação de Tipo |
+| 238  | ⏳     | Type Alias                              |
+| 239  | ⏳     | Tipo Object - Index Signature           |
+| 240  | ⏳     | Tipo Object - Readonly                  |
+| 241  | ⏳     | Literal Types                           |
+| 242  | ⏳     | Let vs Const                            |
+| 243  | ⏳     | Tipo Any                                |
+| 244  | ⏳     | Const no Contexto de Objetos            |
+| 245  | ⏳     | Função - Tipo Void                      |
+| 246  | ⏳     | Função - Tipo Return                    |
+| 247  | ⏳     | Função - Type Annotation                |
+| 248  | ⏳     | Função - Type Annotation em Callbacks   |
+| 249  | ⏳     | Executando os scripts compilados no Browser |
+| 250  | ⏳     | Compilação automática                   |
+| 251  | ⏳     | Extensões TS e JS Antes e Depois do Build |
+| 252  | ⏳     | Tipos Null e Undefined                  |
+| 253  | ⏳     | Tipo Enum                               |
+| 254  | ⏳     | Tipo BigInt                             |
+| 255  | ⏳     | Tipo Symbol                             |
+| 256  | ⏳     | Intersection Types                      |
+
+### Seção 26: TypeScript - Narrowing (14 aulas - 2h 2m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 257  | ⏳     | Introdução                              |
+| 258  | ⏳     | Type Guard                              |
+| 259  | ⏳     | typeof                                  |
+| 260  | ⏳     | Valores Truthy e Falsy                  |
+| 261  | ⏳     | Optional Chaining (?)                   |
+| 262  | ⏳     | Non-null Assertion (!)                  |
+| 263  | ⏳     | Type Assertion (as)                     |
+| 264  | ⏳     | Interfaces dos Elementos HTML           |
+| 265  | ⏳     | Verificando o Tipo do Objeto (Instanceof) Parte 1 |
+| 266  | ⏳     | Verificando o Tipo do Objeto (Instanceof) Parte 2 |
+| 267  | ⏳     | Verificando Propriedades de Objetos e Índices de Arrays (in) |
+| 268  | ⏳     | Array.isArray                           |
+| 269  | ⏳     | Hierarquia de Tipos e o Tipo Unknown    |
+| 270  | ⏳     | Hierarquia de Tipos e o Tipo Never      |
+
+### Seção 27: TypeScript - Interface (6 aulas - 43m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 271  | ⏳     | Introdução                              |
+| 272  | ⏳     | Introdução a Interfaces                 |
+| 273  | ⏳     | Implementando Interfaces (Implements)   |
+| 274  | ⏳     | Merge de Múltiplas Declarações          |
+| 275  | ⏳     | Estendendo Interfaces (Extends)         |
+| 276  | ⏳     | Arquivos de Declaração (Declaration Files) |
+
+### Seção 28: TypeScript - Utility Types (7 aulas - 36m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 277  | ⏳     | Introdução                              |
+| 278  | ⏳     | Introdução aos Tipos Utilitários (Utility Types) |
+| 279  | ⏳     | Omit<Type>                              |
+| 280  | ⏳     | Partial<Type>                           |
+| 281  | ⏳     | Required<Type>                          |
+| 282  | ⏳     | Type Predicate (is)                     |
+| 283  | ⏳     | Readonly<Type>                          |
+
+### Seção 29: TypeScript - Classes (11 aulas - 1h 19m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 284  | ⏳     | Introdução                              |
+| 285  | ⏳     | Recursos Adicionais para Classes        |
+| 286  | ⏳     | Tipagem Estática                        |
+| 287  | ⏳     | Operadores de Visibilidade              |
+| 288  | ⏳     | Operadores de Visibilidade Public, Protected e Private - Parte 1 |
+| 289  | ⏳     | Operadores de Visibilidade Public, Protected e Private - Parte 2 |
+| 290  | ⏳     | Classes Abstratas                       |
+| 291  | ⏳     | Atributos Opcionais                     |
+| 292  | ⏳     | Getters e Setters                       |
+| 293  | ⏳     | Sobrescrita de Métodos (Override)       |
+| 294  | ⏳     | Sobrecarga de Métodos (Overloading)     |
+
+### Seção 30: TypeScript - Generics (15 aulas - 2h 32m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 295  | ⏳     | Introdução                              |
+| 296  | ⏳     | Introdução aos Generics                 |
+| 297  | ⏳     | Generics em Funções                     |
+| 298  | ⏳     | Generics em Métodos                     |
+| 299  | ⏳     | Generics em Classes                     |
+| 300  | ⏳     | Generics em Type Alias e Interfaces - Parte 1 |
+| 301  | ⏳     | Generics em Type Alias e Interfaces - Parte 2 |
+| 302  | ⏳     | Generics em Type Alias e Interfaces - Parte 3 |
+| 303  | ⏳     | Generics em Promises - Parte 1          |
+| 304  | ⏳     | Generics em Promises - Parte 2          |
+| 305  | ⏳     | Generics em Promises - Parte 3          |
+| 306  | ⏳     | Generics em Promises - Parte 4          |
+| 307  | ⏳     | Refatorando Then para Async/Await       |
+| 308  | ⏳     | Restrições Genéricas - Parte 1          |
+| 309  | ⏳     | Restrições Genéricas - Parte 2          |
+
+### Seção 31: TypeScript - Decorators (13 aulas - 2h 20m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 310  | ⏳     | Introdução                              |
+| 311  | ⏳     | Decorando Classes (Class Decorator) - Parte 1 |
+| 312  | ⏳     | Encaminhando Parâmetros para Decoradores |
+| 313  | ⏳     | Decorando Classes (Class Decorator) - Parte 2 |
+| 314  | ⏳     | Decorando Métodos (Method Decorator)    |
+| 315  | ⏳     | Manipulando o Método Decorado           |
+| 316  | ⏳     | Múltiplos Decoradores                   |
+| 317  | ⏳     | Parâmetros entre Métodos e Decoradores  |
+| 318  | ⏳     | Decorando Métodos Assessores (Assessor Decorator) - Parte 1 |
+| 319  | ⏳     | Decorando Métodos Assessores (Assessor Decorator) - Parte 2 |
+| 320  | ⏳     | Decorando Métodos Assessores (Assessor Decorator) - Parte 3 |
+| 321  | ⏳     | Decorando Propriedades (Property Decorator) |
+| 322  | ⏳     | Decorando Parâmetros (Parameter Decorator) |
+
+---
+
+## 📖 Escopo de Estudos
+
+### ✅ Seções Incluídas (Foco Angular)
+- **Seções 1-31**: Fundamentos completos de HTML, CSS, JavaScript e TypeScript
+- **Total de Aulas**: 322 aulas
+- **Tempo Total**: Aproximadamente 40+ horas de conteúdo
+
+### ⏸️ Seções Não Abordadas
+- **Seção 32**: React e Next (29 aulas - 4h 57m)
+- **Seção 33**: Next e Tailwind (22 aulas - 3h 26m)
+- **Seção 34**: Figma (18 aulas - 4h 02m)
+- **Seção 35**: AirBnb (22 aulas - 4h 02m)
+
+As seções 32-35 foram estrategicamente excluídas deste plano de estudos para manter o foco na construção de uma base técnica sólida que servirá especificamente para o desenvolvimento com Angular. O domínio completo de TypeScript é fundamental para o Angular, tornando essas seções mais relevantes para o objetivo final do que as tecnologias React/Next.
+
+---
+
+**Total de Aulas Planejadas**: 322 aulas | **Seções de Foco**: 1-31 | **Projetos Práticos**: 9

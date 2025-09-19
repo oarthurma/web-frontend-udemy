@@ -57,7 +57,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 
 | Projeto | Status | Descrição |
 | ------- | ------ | --------- |
-| 01 | ⏳ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
+| 01 | ✅ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
 | 02 | ⏳ | **Site Oficial do Discord** → Use HTML para criar o famoso site Discord |
 | 03 | ⏳ | **Detalhes produto Loja Virtual** → Usando HTML e CSS criaremos uma área muito comum em lojas virtuais, exibição das informações de produtos |
 | 04 | ⏳ | **Site Anna Bella** → Site completo com HTML e CSS, aplicando formatações e navegação entre páginas |

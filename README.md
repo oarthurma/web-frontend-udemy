@@ -1,6 +1,6 @@
 # Jornada Frontend: Fundamentos para Angular
 
-Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelo instrutor Jamilton Damasceno e Jorge Sant Ana. Disponibilizado na plataforma Udemy.
+Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelos instrutores Jamilton Damasceno e Jorge Sant Ana. Disponibilizado na plataforma Udemy.
 
 O conteúdo aqui presente representa os projetos, exercícios práticos e anotações desenvolvidos ao longo dos módulos, servindo como um registro prático da minha evolução.
 
@@ -17,7 +17,7 @@ O objetivo central deste projeto de estudos é construir uma base sólida e apro
 * **Plataforma:** Udemy
 * **Foco deste Repositório:** Módulos de HTML5, CSS3, JavaScript (ES6+) e TypeScript.
 
-O curso oferece uma formação abrangente, e este repositório é dedicado a registrar a jornada através de suas seções fundamentais, essenciais para qualquer desenvolvedor frontend.
+O curso oferece uma formação abrangente, e este repositório é dedicado a registrar a jornada através de suas seções fundamentais, essenciais para qualquer desenvolvedor frontend. As seções 32 a 35 (React, Next, Figma e AirBnb) não serão abordadas neste momento, pois o foco atual é estabelecer uma base técnica sólida nos conceitos fundamentais que servirão como fundação para o aprendizado posterior do framework Angular.
 
 ---
 
@@ -51,10 +51,25 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 
 ---
 
+## 🏆 Projetos Práticos
 
-## 📝 Progresso no curso
+| Projeto | Status | Descrição |
+| ------- | ------ | --------- |
+| 01 | ✅ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
+| 02 | ⏳ | **Site Oficial do Discord** → Use HTML para criar o famoso site Discord |
+| 03 | ⏳ | **Detalhes produto Loja Virtual** → Usando HTML e CSS criaremos uma área muito comum em lojas virtuais, exibição das informações de produtos |
+| 04 | ⏳ | **Site Anna Bella** → Site completo com HTML e CSS, aplicando formatações e navegação entre páginas |
+| 05 | ⏳ | **Site Oficial do Medium** → Usando HTML e CSS recriaremos a página inicial do famoso Medium, vendo conceitos práticos de desenvolvimento |
+| 06 | ⏳ | **Barra de navegação vertical** → Crie do zero um dos recursos mais usados na criação de site, uma barra de navegação vertical, usando HTML e CSS |
+| 07 | ⏳ | **Página inicial do Zoom** → Recriaremos a página inicial do Zoom usando GridLayout para organizar os conteúdos e Flexbox para organizar os itens internos, trabalhando conceitos de responsividade e Media Queries |
+| 08 | ⏳ | **Álcool ou Gasolina** → Usando Javascript você vai criar um projeto que o usuário coloca o preço do Álcool e da Gasolina e a aplicação diz qual combustível é melhor utilizar |
+| 09 | ⏳ | **Frases motivacionais** → Uma aplicação Javascript que exibe frases motivacionais diariamente |
 
-### Seção 1: Boas Vindas
+---
+
+## 📚 Progresso no curso
+
+### Seção 1: Boas Vindas (4 aulas - 20m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 001  | ✅     | Boas vindas                             |
@@ -62,7 +77,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 003  | ✅     | Redes sociais                           |
 | 004  | ✅     | Youtube e Comunidade no WhatsApp       |
 
-### Seção 2: Configuração de Ambiente
+### Seção 2: Configuração de Ambiente (6 aulas - 55m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 005  | ✅     | Introdução à seção                      |
@@ -72,13 +87,13 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 009  | ✅     | VS Code: Configurações e Outros         |
 | 010  | ✅     | VS Code: Conhecendo o software          |
 
-### Seção 3: Desenvolvimento Web Front-End
+### Seção 3: Desenvolvimento Web Front-End (2 aulas - 24m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 011  | ✅     | Como a internet funciona na realidade?  |
 | 012  | ✅     | Como os sites funcionam na realidade?   |
 
-### Seção 4: Introdução ao HTML
+### Seção 4: Introdução ao HTML (10 aulas - 1h 48m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 013  | ✅     | O que é HTML?                           |
@@ -92,7 +107,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 021  | ✅     | Semântica e formatação de textos        |
 | 022  | ✅     | [Projeto] Classificação de Animes       |
 
-### Seção 5: HTML Intermediário
+### Seção 5: HTML Intermediário (7 aulas - 2h 1m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 023  | ✅     | O Elemento de Lista                     |
@@ -103,7 +118,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 028  | ✅     | Tabelas: Elementos de Tabela            |
 | 029  | ✅     | Tabelas: Estrutura Semântica            |
 
-### Seção 6: HTML - Formulários e Mídias
+### Seção 6: HTML - Formulários e Mídias (9 aulas - 2h 22m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 030  | ✅     | Formulários: Introdução                 |
@@ -116,14 +131,14 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 037  | ✅     | VS Code: Emmet                          |
 | 038  | ⏳     | [Projeto] Site Oficial do Discord       |
 
-### Seção 7: Introdução ao CSS
+### Seção 7: Introdução ao CSS (3 aulas - 51m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 039  | ⏳     | Por que precisamos de CSS?              |
 | 040  | ⏳     | Entendendo conceitos importantes         |
 | 041  | ⏳     | Como adicionar e aplicar CSS            |
 
-### Seção 8: Propriedades CSS
+### Seção 8: Propriedades CSS (9 aulas - 2h 29m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 042  | ⏳     | Div e Span (Teoria)                     |
@@ -136,7 +151,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 049  | ⏳     | Margin e Padding                        |
 | 050  | ⏳     | [PROJETO] Detalhes produto Loja Virtual |
 
-### Seção 9: CSS Intermediário
+### Seção 9: CSS Intermediário (18 aulas - 4h 50m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 051  | ⏳     | Classes e IDs (Teoria)                  |
@@ -158,7 +173,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 067  | ⏳     | [Projeto] Anna Bella - Formatação CSS   |
 | 068  | ⏳     | [Projeto] Anna Bella - Navegação        |
 
-### Seção 10: GIT e GitHub Essencial
+### Seção 10: GIT e GitHub Essencial (20 aulas - 3h 25m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 069  | ⏳     | Controle de versão com Git & Conceitos importantes |
@@ -182,7 +197,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 087  | ⏳     | VSCode - Subindo e baixando alterações  |
 | 088  | ⏳     | VSCode - Trabalhando com Branch e Pull Request |
 
-### Seção 11: CSS Avançado
+### Seção 11: CSS Avançado (19 aulas - 4h 52m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 089  | ⏳     | Posicionamentos (Teoria)                |
@@ -205,7 +220,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 106  | ⏳     | Tags: Header, Nav, Main e Footer        |
 | 107  | ⏳     | Article, Section, Aside e Time          |
 
-### Seção 12: CSS FlexBox
+### Seção 12: CSS FlexBox (15 aulas - 2h 8m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 108  | ⏳     | Introdução ao Flexbox e Grid            |
@@ -224,7 +239,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 121  | ⏳     | [Projeto] Zoom - Estrutura com Flexbox  |
 | 122  | ⏳     | [Projeto] Zoom - Formatações do menu    |
 
-### Seção 13: CSS Grid Layout
+### Seção 13: CSS Grid Layout (14 aulas - 2h 26m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
 | 123  | ⏳     | Introdução ao Grid Layout               |
@@ -242,5 +257,139 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 135  | ⏳     | [Projeto] Zoom - Conteúdos e formatações |
 | 136  | ⏳     | [Projeto] Zoom - Responsividade         |
 
----
+### Seção 14: Algoritmo Básico (5 aulas - 20m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 137  | ⏳     | Algoritmo - O que irei aprender?        |
+| 138  | ⏳     | O que é Algoritmo?                      |
+| 139  | ⏳     | Tomada de decisão                       |
+| 140  | ⏳     | Repetições                              |
+| 141  | ⏳     | Linguagem de programação                |
+
+### Seção 15: JavaScript - Fundamentos (9 aulas - 1h 31m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 142  | ⏳     | Editores de código - VS Code, Brackets e Sublime |
+| 143  | ⏳     | Linguagem de programação Javascript     |
+| 144  | ⏳     | Primeira aplicação                      |
+| 145  | ⏳     | Como executar códigos                   |
+| 146  | ⏳     | Como os códigos são estruturados        |
+| 147  | ⏳     | Comentários                             |
+| 148  | ⏳     | O que são variáveis e constantes? (Teoria) |
+| 149  | ⏳     | O que são variáveis e constantes? (Prática) |
+| 150  | ⏳     | Variáveis e seus tipos                  |
+
+### Seção 16: JavaScript - Operadores e Funções (6 aulas - 1h 28m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 151  | ⏳     | Operadores Básicos, Aritméticos & Precedência |
+| 152  | ⏳     | Operadores Relacionais e Lógicos        |
+| 153  | ⏳     | Estruturas Condicionais - if else        |
+| 154  | ⏳     | Operador Ternário & Switch              |
+| 155  | ⏳     | Funções                                 |
+| 156  | ⏳     | [Projeto] Álcool ou Gasolina            |
+
+### Seção 17: JavaScript - Arrays e Loops (10 aulas - 1h 59m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 157  | ⏳     | Arrays                                  |
+| 158  | ⏳     | [Projeto] Frases motivacionais          |
+| 159  | ⏳     | Concatenação & Template String           |
+| 160  | ⏳     | Loops — while                           |
+| 161  | ⏳     | Loops — do, while e for                 |
+| 162  | ⏳     | [Projeto] Lista Nomes                   |
+| 163  | ⏳     | Operadores de atribuição                |
+| 164  | ⏳     | Operadores unários                      |
+| 165  | ⏳     | Diferença de Var e Let (Escopo de variáveis) |
+| 166  | ⏳     | Função Anônima & Arrow                  |
+
+### Seção 18: JavaScript - Orientação a Objetos (11 aulas - 2h 49m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 167  | ⏳     | Relação entre JavaScript e ECMAScript   |
+| 168  | ⏳     | O que é programação Orientada a Objetos? |
+| 169  | ⏳     | Orientação a Objetos, na prática        |
+| 170  | ⏳     | Classes e Objetos                       |
+| 171  | ⏳     | Pilares da Orientação a Objetos - Abstração |
+| 172  | ⏳     | Métodos - Retornos e Parâmetros         |
+| 173  | ⏳     | Pilares da Orientação a Objetos - Encapsulamento - Parte 1 |
+| 174  | ⏳     | Pilares da Orientação a Objetos - Encapsulamento - Parte 2 |
+| 175  | ⏳     | Pilares da Orientação a Objetos - Herança - Parte 1 |
+| 176  | ⏳     | Pilares da Orientação a Objetos - Herança - Parte 2 |
+| 177  | ⏳     | Pilares da Orientação a Objetos - Herança - Parte 3 |
+
+### Seção 19: JavaScript - Práticas e Funções (8 aulas - 1h 23m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 178  | ⏳     | Objetos Literais - Melhorias            |
+| 179  | ⏳     | Objetos constantes                      |
+| 180  | ⏳     | Tratamento de erros com: Try/Catch/Throw |
+| 181  | ⏳     | Funções construtoras                    |
+| 182  | ⏳     | Funções construtoras - Encapsulamento   |
+| 183  | ⏳     | Funções Factory                         |
+| 184  | ⏳     | Protótipos - Introdução                 |
+| 185  | ⏳     | Protótipos - Prática                    |
+
+### Seção 20: JavaScript Intermediário - Funções Nativas (5 aulas - 1h 10m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 186  | ⏳     | Parâmetros e retornos de função         |
+| 187  | ⏳     | Funções de Callback                     |
+| 188  | ⏳     | Funções Nativas - Manipulação de Textos |
+| 189  | ⏳     | Funções Nativas - Matemática            |
+| 190  | ⏳     | Funções Nativas - Datas                 |
+
+### Seção 21: JavaScript Intermediário - Arrays (6 aulas - 1h 15m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 191  | ⏳     | Array - Saiba mais                      |
+| 192  | ⏳     | Array - Métodos úteis                   |
+| 193  | ⏳     | Array: ForEach                          |
+| 194  | ⏳     | Array: Map                              |
+| 195  | ⏳     | Array: Filter                           |
+| 196  | ⏳     | Array: Reduce                           |
+
+### Seção 22: JavaScript Intermediário - DOM (9 aulas - 2h 14m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 197  | ⏳     | O que é DOM                             |
+| 198  | ⏳     | DOM - Selecionando elementos individuais |
+| 199  | ⏳     | DOM - Selecionando múltiplos elementos  |
+| 200  | ⏳     | DOM - Selecionando elementos de formulário |
+| 201  | ⏳     | DOM - Navegando por elementos           |
+| 202  | ⏳     | DOM - Selecionando atributos            |
+| 203  | ⏳     | DOM - Atributos personalizados          |
+| 204  | ⏳     | DOM - Selecionando classes              |
+| 205  | ⏳     | DOM - Adicionando e removendo elementos |
+
+### Seção 23: JavaScript Intermediário - Eventos (7 aulas - 1h 25m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 206  | ⏳     | Introdução aos eventos                  |
+| 207  | ⏳     | Eventos: 3 abordagens diferentes        |
+| 208  | ⏳     | Eventos: Interface do usuário           |
+| 209  | ⏳     | Eventos: Teclado                        |
+| 210  | ⏳     | Eventos: Mouse                          |
+| 211  | ⏳     | Eventos: Focus e Blur                   |
+| 212  | ⏳     | Eventos: Formulário                     |
+
+### Seção 24: TypeScript - Introdução e Configuração do Ambiente (16 aulas - 1h 31m)
+| Aula | Status | Descrição                                |
+| ---- | ------ | ---------------------------------------- |
+| 213  | ⏳     | Introdução                              |
+| 214  | ⏳     | Apostila de TypeScript                  |
+| 215  | ⏳     | O que é TypeScript?                     |
+| 216  | ⏳     | Introdução ao NodeJS, NPM e VS Code    |
+| 217  | ⏳     | Iniciando o projeto com o NPM           |
+| 218  | ⏳     | Instalando o TypeScript no projeto      |
+| 219  | ⏳     | Compilando TypeScript para JavaScript   |
+| 220  | ⏳     | Script Mode                             |
+| 221  | ⏳     | Instalando o Live Server                |
+| 222  | ⏳     | ES Modules                              |
+| 223  | ⏳     | CommonJS                                |
+| 224  | ⏳     | Iniciando o TypeScript no projeto (introdução ao tsconfig.json) |
+| 225  | ⏳     | Prettier - Introdução, instalação e uso |
+| 226  | ⏳     | VS Code - Format on Save e End of Line |
+| 227  | ⏳     | Versionando o projeto com o Git         |
+| 228  | ⏳     | Repositório dos Scripts no GitHub       |
 

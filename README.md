@@ -58,7 +58,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | Projeto | Status | Descrição |
 | ------- | ------ | --------- |
 | 01 | ✅ | **Classificação de Animes** → Usando HTML crie uma estrutura para classificar os melhores animes |
-| 02 | ⏳ | **Site Oficial do Discord** → Use HTML para criar o famoso site Discord |
+| 02 | ✅ | **Site Oficial do Discord** → Use HTML para criar o famoso site Discord |
 | 03 | ⏳ | **Detalhes produto Loja Virtual** → Usando HTML e CSS criaremos uma área muito comum em lojas virtuais, exibição das informações de produtos |
 | 04 | ⏳ | **Site Anna Bella** → Site completo com HTML e CSS, aplicando formatações e navegação entre páginas |
 | 05 | ⏳ | **Site Oficial do Medium** → Usando HTML e CSS recriaremos a página inicial do famoso Medium, vendo conceitos práticos de desenvolvimento |
@@ -131,7 +131,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 | 035  | ✅     | HTML: Caracteres especiais              |
 | 036  | ✅     | Mídias: Executar vídeos c/ HTML         |
 | 037  | ✅     | VS Code: Emmet                          |
-| 038  | ⏳     | [Projeto] Site Oficial do Discord       |
+| 038  | ✅     | [Projeto] Site Oficial do Discord       |
 
 ### Seção 7: Introdução ao CSS (3 aulas - 51m)
 | Aula | Status | Descrição                                |

@@ -1,5 +1,10 @@
 # Jornada Frontend: Fundamentos para Angular
 
+<div align="center">
+  <img src="assets/capa-curso-web.png" alt="Frontend Development Journey" width="800" />
+  <p><em>Construindo uma base sólida em tecnologias web fundamentais</em></p>
+</div>
+
 Este repositório documenta meu progresso e aprendizado no curso **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025**, ministrado pelos instrutores Jamilton Damasceno e Jorge Sant Ana. Disponibilizado na plataforma Udemy.
 
 O conteúdo aqui presente representa os projetos e exercícios práticos desenvolvidos ao longo das seções, servindo como um registro prático dos meus estudos.

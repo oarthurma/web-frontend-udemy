@@ -136,7 +136,7 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 ### Seção 7: Introdução ao CSS (3 aulas - 51m)
 | Aula | Status | Descrição                                |
 | ---- | ------ | ---------------------------------------- |
-| 039  | ⏳     | Por que precisamos de CSS?              |
+| 039  | ✅     | Por que precisamos de CSS?              |
 | 040  | ⏳     | Entendendo conceitos importantes         |
 | 041  | ⏳     | Como adicionar e aplicar CSS            |
 

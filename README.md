@@ -156,11 +156,11 @@ A estrutura de aprendizado seguirá a progressão do curso, focando nos seguinte
 
 | Aula | Status | Descrição                               |
 | ---- | ------ | --------------------------------------- |
-| 042  | ⏳     | Div e Span (Teoria)                     |
-| 043  | ⏳     | Div e Span (Prática) - Parte 1          |
-| 044  | ⏳     | Div e Span (Prática) - Parte 2          |
-| 045  | ⏳     | Fontes e Cores (Teoria)                 |
-| 046  | ⏳     | Fontes e Cores (Prática)                |
+| 042  | ✅     | Div e Span (Teoria)                     |
+| 043  | ✅     | Div e Span (Prática) - Parte 1          |
+| 044  | ✅     | Div e Span (Prática) - Parte 2          |
+| 045  | ✅     | Fontes e Cores (Teoria)                 |
+| 046  | ✅     | Fontes e Cores (Prática)                |
 | 047  | ⏳     | Modelo de caixa                         |
 | 048  | ⏳     | Bordas                                  |
 | 049  | ⏳     | Margin e Padding                        |

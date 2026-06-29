@@ -1,3 +1,19 @@
+/* CSS do site americanas de exemplo */
+#topo {
+  background: red;
+}
+
+#promocao {
+  background: gray;
+}
+
+#produto-promocao {
+  background: gray;
+}
+
+.destaque {
+  background: green;
+}
 /*
 h2 {
   color: blue;
